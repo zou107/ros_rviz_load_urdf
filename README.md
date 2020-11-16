@@ -4,7 +4,7 @@
 
 使用RVIZ仿真软件加载一个配置好的URDF模型，并使用GUI控制机械臂的关节进行运动
 
-
+  ![aubo-urdf-gif](https://github.com/zou107/ros_rviz_load_urdf/blob/main/.image/aubo-urdf.gif)
 
 ## 运行环境
 
@@ -41,7 +41,7 @@ roslaunch ./display.launch
 ```
 
 - 效果
-  ![rviz_load_urdf](.\img\rviz_load_urdf.png)
+  ![rviz_load_urdf](https://github.com/zou107/ros_rviz_load_urdf/blob/main/.image/rviz_load_urdf.png)
 
 
 
